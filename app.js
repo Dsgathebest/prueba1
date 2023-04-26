@@ -14,3 +14,6 @@ console.log(getUser2());
 
 const user = getUser();
 console.log (user);
+
+
+
